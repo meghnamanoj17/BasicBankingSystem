@@ -6,7 +6,7 @@ Flow: Home Page > View all Customers > Select and View one Customer > Transfer M
 
 FRONTEND: HTML,CSS,Bootstrap \
 BACKEND:PHP,Javascript\
-DATABASE: Mysql\
+DATABASE: Mysql
 
 TO RUN THE PROJECT:\
 Download the code and save the project folder in C:\xampp\htdocs\
