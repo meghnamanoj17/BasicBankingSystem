@@ -1,4 +1,4 @@
-# BasicBankingSystem
+# TSF-BasicBankingSystem
 ### Author: Meghna Manoj
 ###  TASK1 FOR THE SPARKS FOUNDATION INTERNSHIP
 A simple dynamic website which has the following specs.
